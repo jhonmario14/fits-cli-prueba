@@ -1,0 +1,7 @@
+Install required libraries
+
+Libtiff
+Cfitsio
+
+sudo apt install libtiff
+sudo apt install cfitsio
